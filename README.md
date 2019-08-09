@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint 1 - Module 4 - You Do (Solution)
+# Ruby on Rails - Ruby & Ruby on Rails Basics - Packaging Ruby Code - Project
 
 ## Create and Use a Gem
 
